@@ -1,0 +1,6 @@
+{
+  "name": "ZAD Staff Sale | ZAD Marketing & Distribution Staff Sales Portal (zadstaffsale.store)",
+  "description": "Official ZAD Staff Sales Portal (zadstaffsale.store) for ZAD Marketing & Distribution employees in Qatar. Browse subsidized FMCG products, chocolates, beverages, dairy, and place internal staff orders.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
