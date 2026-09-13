@@ -64,5 +64,19 @@
         "bannerNotice": { "type": "string" }
       }
     }
+  },
+  "firestore": {
+    "/products/{productId}": {
+      "schema": "products",
+      "description": "Products available in the Staff Store catalog"
+    },
+    "/orders/{orderId}": {
+      "schema": "orders",
+      "description": "Staff store employee orders and delivery statuses"
+    },
+    "/settings/{settingId}": {
+      "schema": "settings",
+      "description": "Global store configurations"
+    }
   }
 }
